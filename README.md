@@ -1,7 +1,7 @@
 # Fight Wrapped
 
 ## Project Overview
-This interactive **Power BI dashboard** was designed to track and analyze personal fight-viewing habits throughout **2026**. The project focuses on visualizing combat sports data across multiple sports and eras, providing deep insights into fighter appearances, promotion trends, and total viewing time.
+This interactive **Power BI dashboard** was designed to track and analyze personal fight-viewing habits. The project focuses on visualizing combat sports data across multiple sports and eras, providing deep insights into fighter appearances, promotion trends, and total viewing time.
 
 **Github Link:** https://github.com/AliCreed/Fight-Wrapped
 
@@ -15,9 +15,9 @@ This interactive **Power BI dashboard** was designed to track and analyze person
 ---
 
 ## How to View
-1. Download the `Jan_2026_Fight_Log_Dashboard.pbix` file found in this folder.  
+1. Download the `Fight_Wrapped_Dashboard.pbix` file found in this folder.  
 2. Open using **Power BI Desktop**.  
-3. Alternatively, refer to `Jan_2026_Fight_Log_Dashboard.pdf` for a static overview of the design and layout.
+3. Alternatively, refer to `Fight_Wrapped_Dashboard.pdf` for a static overview of the design and layout.
 
 ---
 
