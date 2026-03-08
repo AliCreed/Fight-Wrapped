@@ -8,7 +8,7 @@ This interactive **Power BI dashboard** was designed to track and analyze person
 ---
 
 ## Data Model Architecture
-- **Fact Table:** `2026` – Main fight log containing match details, fighters, duration, and event metadata  
+- **Fact Table:** `Fight Log` – Main fight log containing match details, fighters, duration, and event metadata  
 - **Dimension Table:** `Date` – Calendar table providing date attributes (DayOfWeek, MonthName,...) for time-based analysis  
 - **Support Table:** `Fighter Leaderboard` – Disconnected table used for advanced DAX filtering and ranking calculations
 
@@ -23,7 +23,7 @@ This interactive **Power BI dashboard** was designed to track and analyze person
 
 ## Tools Used
 - **Power BI Desktop:** Visual design and UI/UX
-- **Excel** – Initial data organization and validation before model import  
+- **Google Sheets:** Cloud-based data source used for initial data structuring and validation, connected to Power BI for data ingestion.
 - **Power Query:** Data cleaning and index generation  
 - **DAX:** Advanced measures for duration summing and cross-column filtering  
 - **Gemini/ChatGPT (AI Collaborator):** Leveraged as an adaptive AI peer to troubleshoot data model architecture and optimize DAX syntax
